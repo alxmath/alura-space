@@ -1,9 +1,9 @@
 import React from "react";
-import home from "../../assets/icones/home-ativo.png";
-import maisCurtidas from "../../assets/icones/mais-curtidas-inativo.png";
-import maisVistas from "../../assets/icones/mais-vistas-inativo.png";
-import novas from "../../assets/icones/novas-inativo.png";
-import surpreendaMe from "../../assets/icones/surpreenda-me-inativo.png";
+import home from "../../assets/imagens/icones/home-ativo.png";
+import maisCurtidas from "../../assets/imagens/icones/mais-curtidas-inativo.png";
+import maisVistas from "../../assets/imagens/icones/mais-vistas-inativo.png";
+import novas from "../../assets/imagens/icones/novas-inativo.png";
+import surpreendaMe from "../../assets/imagens/icones/surpreenda-me-inativo.png";
 import styles from "./Menu.module.scss";
 
 export default function Menu() {
